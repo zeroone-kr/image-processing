@@ -29,8 +29,8 @@ WIDTH, HEIGHT = 1920, 1080
 INPUT_IMAGE_PATH = r'images/19.jpg'
 
 # 출력 파일 2개 이름
-OUT_FILE1_PATH = r'./output/20162171_1.jpg'
-OUT_FILE2_PATH = r'./output/20162171_2.jpg'
+OUT_FILE1_PATH = r'./output/1.jpg'
+OUT_FILE2_PATH = r'./output/2.jpg'
 
 # 좌측 상단 메시지
 MENU = '1/blurring, 2/sharpening, 3/prewitt, 4/sobel, 5/laplacian'
